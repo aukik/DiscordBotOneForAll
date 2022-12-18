@@ -7,7 +7,7 @@ const server = express()
 
 
 
-//****************Discord.js version 13**************
+//****************Discord.js version 13*************
 
 
 
